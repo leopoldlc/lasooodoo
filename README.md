@@ -1,0 +1,2 @@
+# lasooodoo
+LASO Odoo Image
