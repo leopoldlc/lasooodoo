@@ -54,6 +54,8 @@ RUN npm install -g rtlcss
 RUN npm install -g less
 RUN npm install -g less-plugin-clean-css
 
+# Mexican Localization libraries for Odoo 13.0
+RUN pip3 install --upgrade pip
 RUN pip3 install pyopenssl
 
 # Install Odoo
